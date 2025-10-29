@@ -1,0 +1,217 @@
+{
+     "goods_prices": [
+          {
+               "goods_priceId": "gp1ZfrnPr1",
+               "goodsId_fk": "g1ZfrnIrn",
+               "date": "2025-10-29",
+               "openPrice": 490000,
+               "closePrice": 500000,
+               "high": 510000,
+               "low": 480000,
+               "changePercent": 2.04
+          },
+          {
+               "goods_priceId": "gp2PstPr3",
+               "goodsId_fk": "g2PstKrmn",
+               "date": "2025-10-29",
+               "openPrice": 1950000,
+               "closePrice": 2000000,
+               "high": 2050000,
+               "low": 1900000,
+               "changePercent": 2.56
+          },
+          {
+               "goods_priceId": "gp3ZfrnPr2",
+               "goodsId_fk": "g1ZfrnIrn",
+               "date": "2025-10-28",
+               "openPrice": 480000,
+               "closePrice": 490000,
+               "high": 495000,
+               "low": 475000,
+               "changePercent": 2.08
+          },
+          {
+               "goods_priceId": "gp4PstPr4",
+               "goodsId_fk": "g2PstKrmn",
+               "date": "2025-10-28",
+               "openPrice": 1900000,
+               "closePrice": 1950000,
+               "high": 1970000,
+               "low": 1850000,
+               "changePercent": 2.63
+          },
+          {
+               "goods_priceId": "gp5ZfrnPr3",
+               "goodsId_fk": "g1ZfrnIrn",
+               "date": "2025-10-27",
+               "openPrice": 470000,
+               "closePrice": 480000,
+               "high": 485000,
+               "low": 465000,
+               "changePercent": 2.13
+          }
+     ],
+     "price_comparison": [
+          {
+               "price_comparisonId": "pc1ZfrnCmp1",
+               "goodsId_fk": "g1ZfrnIrn",
+               "period": "ماهانه",
+               "avgPrice": 495000,
+               "changePercent": 1.02
+          },
+          {
+               "price_comparisonId": "pc3PstCmp3",
+               "goodsId_fk": "g2PstKrmn",
+               "period": "ماهانه",
+               "avgPrice": 1975000,
+               "changePercent": 1.28
+          },
+          {
+               "price_comparisonId": "pc2ZfrnCmp2",
+               "goodsId_fk": "g1ZfrnIrn",
+               "period": "سالانه",
+               "avgPrice": 480000,
+               "changePercent": 4.35
+          },
+          {
+               "price_comparisonId": "pc4PstCmp4",
+               "goodsId_fk": "g2PstKrmn",
+               "period": "سالانه",
+               "avgPrice": 1925000,
+               "changePercent": 4.05
+          },
+          {
+               "price_comparisonId": "pc5ZfrnCmp3",
+               "goodsId_fk": "g1ZfrnIrn",
+               "period": "هفتگی",
+               "avgPrice": 490000,
+               "changePercent": 2.11
+          }
+     ],
+     "market_share": [
+          {
+               "market_shareId": "ms1ZfrnShr1",
+               "goodsId_fk": "g1ZfrnIrn",
+               "market": "ایران",
+               "sharePercent": 40.5,
+               "lastUpdate": "2025-10-29"
+          },
+          {
+               "market_shareId": "ms3PstShr3",
+               "goodsId_fk": "g2PstKrmn",
+               "market": "ایران",
+               "sharePercent": 35.2,
+               "lastUpdate": "2025-10-29"
+          },
+          {
+               "market_shareId": "ms2ZfrnShr2",
+               "goodsId_fk": "g1ZfrnIrn",
+               "market": "خاورمیانه",
+               "sharePercent": 25.3,
+               "lastUpdate": "2025-10-28"
+          },
+          {
+               "market_shareId": "ms4PstShr4",
+               "goodsId_fk": "g2PstKrmn",
+               "market": "اروپا",
+               "sharePercent": 20.1,
+               "lastUpdate": "2025-10-28"
+          },
+          {
+               "market_shareId": "ms5ZfrnShr3",
+               "goodsId_fk": "g1ZfrnIrn",
+               "market": "آسیا",
+               "sharePercent": 30.7,
+               "lastUpdate": "2025-10-27"
+          }
+     ],
+     "trade_volume": [
+          {
+               "trade_volumeId": "tv1ZfrnVol1",
+               "goodsId_fk": "g1ZfrnIrn",
+               "date": "2025-10-29",
+               "buyVolume": 1000,
+               "sellVolume": 800,
+               "totalVolume": 1800
+          },
+          {
+               "trade_volumeId": "tv3PstVol3",
+               "goodsId_fk": "g2PstKrmn",
+               "date": "2025-10-29",
+               "buyVolume": 5000,
+               "sellVolume": 4000,
+               "totalVolume": 9000
+          },
+          {
+               "trade_volumeId": "tv2ZfrnVol2",
+               "goodsId_fk": "g1ZfrnIrn",
+               "date": "2025-10-28",
+               "buyVolume": 900,
+               "sellVolume": 700,
+               "totalVolume": 1600
+          },
+          {
+               "trade_volumeId": "tv4PstVol4",
+               "goodsId_fk": "g2PstKrmn",
+               "date": "2025-10-28",
+               "buyVolume": 4500,
+               "sellVolume": 3500,
+               "totalVolume": 8000
+          },
+          {
+               "trade_volumeId": "tv5ZfrnVol3",
+               "goodsId_fk": "g1ZfrnIrn",
+               "date": "2025-10-27",
+               "buyVolume": 850,
+               "sellVolume": 650,
+               "totalVolume": 1500
+          }
+     ],
+     "analyst_scores": [
+          {
+               "analyst_scoreId": "as1ZfrnScr1",
+               "goodsId_fk": "g1ZfrnIrn",
+               "analyst": "احمد محمدی",
+               "stability": 8,
+               "growthPotential": 7,
+               "riskLevel": 3,
+               "recommendationScore": 8
+          },
+          {
+               "analyst_scoreId": "as3PstScr3",
+               "goodsId_fk": "g2PstKrmn",
+               "analyst": "رضا کریمی",
+               "stability": 9,
+               "growthPotential": 6,
+               "riskLevel": 2,
+               "recommendationScore": 9
+          },
+          {
+               "analyst_scoreId": "as2ZfrnScr2",
+               "goodsId_fk": "g1ZfrnIrn",
+               "analyst": "سارا رضایی",
+               "stability": 7,
+               "growthPotential": 8,
+               "riskLevel": 4,
+               "recommendationScore": 7
+          },
+          {
+               "analyst_scoreId": "as4PstScr4",
+               "goodsId_fk": "g2PstKrmn",
+               "analyst": "مینا احمدی",
+               "stability": 8,
+               "growthPotential": 7,
+               "riskLevel": 3,
+               "recommendationScore": 8
+          },
+          {
+               "analyst_scoreId": "as5ZfrnScr3",
+               "goodsId_fk": "g1ZfrnIrn",
+               "analyst": "علی حسینی",
+               "stability": 6,
+               "growthPotential": 9,
+               "riskLevel": 5,
+               "recommendationScore": 7
+          }
+     ]
+}
