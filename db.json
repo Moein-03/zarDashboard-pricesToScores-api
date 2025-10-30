@@ -49,6 +49,16 @@
                "high": 485000,
                "low": 465000,
                "changePercent": 2.13
+          },
+          {
+               "goods_priceId": "gp5sfffnyr3",
+               "goodsId_fk": "g2PstKrmn",
+               "date": "2025-10-27",
+               "openPrice": 470000,
+               "closePrice": 480000,
+               "high": 485000,
+               "low": 465000,
+               "changePercent": 2.13
           }
      ],
      "price_comparison": [
@@ -214,4 +224,5 @@
                "recommendationScore": 7
           }
      ]
+
 }
